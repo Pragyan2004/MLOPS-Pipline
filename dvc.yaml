@@ -1,3 +1,4 @@
+# cSpell:ignore dvclive
 stages:
   data_ingestion:
     cmd: python src/data_ingestion.py

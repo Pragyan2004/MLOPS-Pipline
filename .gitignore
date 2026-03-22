@@ -208,3 +208,8 @@ __marimo__/
 
 # VS Code Code Runner temp file
 tempCodeRunnerFile.py
+
+# Data folders managed by DVC
+/data/
+/models/
+/reports/
